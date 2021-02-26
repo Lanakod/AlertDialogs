@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Диалоговые окна</string>
+    <string name="exit">Выход</string>
+    <string name="developer">Разработчик Малахов М.А.</string>
+    <string name="flag">Флаг страны</string>
+    <string name="country_info">Население: 11 480 534 чел. \n Кол-во заражённых: 3076</string>
+    <string name="country">Бельгия</string>
+</resources>
